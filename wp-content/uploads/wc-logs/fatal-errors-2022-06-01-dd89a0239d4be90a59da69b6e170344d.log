@@ -1,0 +1,4 @@
+2022-06-01T08:03:32+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-media-gallery.php on line 261
+
+2022-06-01T08:08:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\mailpoet\lib\AutomaticEmails\WooCommerce\Events\FirstPurchase.php on line 5
+

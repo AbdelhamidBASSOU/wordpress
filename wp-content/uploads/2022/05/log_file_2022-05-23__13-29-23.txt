@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Ecommerce Goldly were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\reviewexchanger-demo-importer//theme/ecommerce-goldly/inc/demo-content.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\reviewexchanger-demo-importer//theme/ecommerce-goldly/inc/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\reviewexchanger-demo-importer//theme/ecommerce-goldly/inc/ecommerce-goldly.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Product Section : 
+
+Block - No Title - Imported
+
+Sidebar : 
+
+Block - No Title - Imported
+
+Footer1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer3 : 
+
+Navigation Menu - Menu - Imported
+
+Footer4 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer5 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
